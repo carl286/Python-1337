@@ -1,0 +1,7 @@
+*.pyc
+*.py~
+/.idea/
+*.swp
+*.DS_Store
+./__pycache__/*
+/.ropeproject/*
